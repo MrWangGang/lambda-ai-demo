@@ -70,7 +70,7 @@ public class OpenAiChatGptApplication extends WebResponseHandler implements WebF
     @Resource
     private OpenAiImageService openAiImageService;
 
-    private static String openAiApiKey = "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";
+    private static String openAiApiKey = "your key";
 
     private static String userId = "1";
 
